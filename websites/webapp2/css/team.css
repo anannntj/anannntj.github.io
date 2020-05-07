@@ -155,14 +155,14 @@ transform: translate(-50%,-50%);
 rotate: left;
 }
 
-.r1{
+.ad{
 position: absolute;
 top: 20%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
 
-.r1 h1{
+.ad h1{
 color: #fff;
 font-size: 30px;
 }
