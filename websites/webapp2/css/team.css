@@ -144,6 +144,17 @@ transform: translate(-50%,-50%);
 rotate: left;
 }
 
+.ph7 img{
+float: left;
+width: 150px;
+height: 150px;
+position: absolute;
+top: 190%;
+left: 10%;
+transform: translate(-50%,-50%);
+rotate: left;
+}
+
 
 
 
