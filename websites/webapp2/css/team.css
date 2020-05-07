@@ -111,6 +111,16 @@ left: 10%;
 transform: translate(-50%,-50%);
 }
 
+.ph4 img{
+float: left;
+width: 150px;
+height: 150px;
+position: absolute;
+top: 112%;
+left: 10%;
+transform: translate(-50%,-50%);
+}
+
 
 
 
