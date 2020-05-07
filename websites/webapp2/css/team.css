@@ -158,7 +158,7 @@ rotate: left;
 .ad{
 position: absolute;
 top: 25%;
-left: 30%;
+left: 28%;
 transform: translate(-50%,-50%);
 }
 
@@ -167,7 +167,76 @@ color: #fff;
 font-size: 30px;
 }
 
+.n{
+position: absolute;
+top: 25%;
+left: 28%;
+transform: translate(-50%,-50%);
+}
 
+.n h1{
+color: #fff;
+font-size: 30px;
+}
 
+.g{
+position: absolute;
+top: 25%;
+left: 28%;
+transform: translate(-50%,-50%);
+}
+
+.g h1{
+color: #fff;
+font-size: 30px;
+}
+
+.an{
+position: absolute;
+top: 25%;
+left: 28%;
+transform: translate(-50%,-50%);
+}
+
+.an h1{
+color: #fff;
+font-size: 30px;
+}
+
+.i{
+position: absolute;
+top: 25%;
+left: 28%;
+transform: translate(-50%,-50%);
+}
+
+.i h1{
+color: #fff;
+font-size: 30px;
+}
+
+.r{
+position: absolute;
+top: 25%;
+left: 28%;
+transform: translate(-50%,-50%);
+}
+
+.r h1{
+color: #fff;
+font-size: 30px;
+}
+
+.m{
+position: absolute;
+top: 25%;
+left: 28%;
+transform: translate(-50%,-50%);
+}
+
+.m h1{
+color: #fff;
+font-size: 30px;
+}
 
 
