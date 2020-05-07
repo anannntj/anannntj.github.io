@@ -157,7 +157,7 @@ rotate: left;
 
 .ad{
 position: absolute;
-top: 25%;
+top: 26%;
 left: 28%;
 transform: translate(-50%,-50%);
 }
@@ -169,7 +169,7 @@ font-size: 30px;
 
 .n{
 position: absolute;
-top: 51%;
+top: 52%;
 left: 28%;
 transform: translate(-50%,-50%);
 }
@@ -181,7 +181,7 @@ font-size: 30px;
 
 .g{
 position: absolute;
-top: 25%;
+top: 78%;
 left: 28%;
 transform: translate(-50%,-50%);
 }
@@ -193,7 +193,7 @@ font-size: 30px;
 
 .an{
 position: absolute;
-top: 25%;
+top: 104%;
 left: 28%;
 transform: translate(-50%,-50%);
 }
@@ -205,7 +205,7 @@ font-size: 30px;
 
 .i{
 position: absolute;
-top: 25%;
+top: 130%;
 left: 28%;
 transform: translate(-50%,-50%);
 }
@@ -217,7 +217,7 @@ font-size: 30px;
 
 .r{
 position: absolute;
-top: 25%;
+top: 152%;
 left: 28%;
 transform: translate(-50%,-50%);
 }
