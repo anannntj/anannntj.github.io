@@ -193,7 +193,7 @@ font-size: 23px;
 
 .an{
 position: absolute;
-top: 104%;
+top: 110%;
 left: 45%;
 transform: translate(-50%,-50%);
 }
@@ -205,7 +205,7 @@ font-size: 23px;
 
 .i{
 position: absolute;
-top: 130%;
+top: 136%;
 left: 45%;
 transform: translate(-50%,-50%);
 }
@@ -217,7 +217,7 @@ font-size: 23px;
 
 .r{
 position: absolute;
-top: 156%;
+top: 162%;
 left: 45%;
 transform: translate(-50%,-50%);
 }
@@ -229,7 +229,7 @@ font-size: 23px;
 
 .m{
 position: absolute;
-top: 182%;
+top: 188%;
 left: 45%;
 transform: translate(-50%,-50%);
 }
