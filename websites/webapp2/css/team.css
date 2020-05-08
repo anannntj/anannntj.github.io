@@ -97,7 +97,7 @@ width: 150px;
 height: 150px;
 position: absolute;
 top: 60%;
-left: 10%;
+right: 6%;
 transform: translate(-50%,-50%);
 }
 
@@ -117,7 +117,7 @@ width: 150px;
 height: 150px;
 position: absolute;
 top: 112%;
-left: 10%;
+right: 6%;
 transform: translate(-50%,-50%);
 rotate: left;
 }
@@ -139,7 +139,7 @@ width: 150px;
 height: 150px;
 position: absolute;
 top: 164%;
-left: 10%;
+right: 6%;
 transform: translate(-50%,-50%);
 rotate: left;
 }
