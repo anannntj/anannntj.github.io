@@ -241,10 +241,10 @@ font-size: 23px;
 
 .a img{
 float: right;
-width: 150px;
-height: 150px;
+width: 180px;
+height: 180px;
 position: absolute;
-top: 34%;
+top: 39%;
 right: 6%;
 transform: translate(-50%,-50%);
 }
