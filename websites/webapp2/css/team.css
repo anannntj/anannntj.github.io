@@ -254,9 +254,17 @@ float: right;
 width: 180px;
 height: 180px;
 position: absolute;
-top: 124%;
+top: 114%;
 right: 6%;
 transform: translate(-50%,-50%);
 }
 
-
+.c img{
+float: right;
+width: 180px;
+height: 180px;
+position: absolute;
+top: 170%;
+right: 6%;
+transform: translate(-50%,-50%);
+}
