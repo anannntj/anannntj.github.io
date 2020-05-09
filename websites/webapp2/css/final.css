@@ -71,7 +71,7 @@ color: #000;
 
 .title{
 position: absolute;
-top: 23%;
+top: 25%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -83,7 +83,7 @@ font-size: 70px;
 
 .a{
 position: absolute;
-top: 45%;
+top: 48%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
