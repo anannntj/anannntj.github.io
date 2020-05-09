@@ -177,4 +177,14 @@ color: #fff;
 font-size: 25px;
 }
 
+.i{
+position: absolute;
+top: 395%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
 
+.i h1{
+color: #fff;
+font-size: 60px;
+}
