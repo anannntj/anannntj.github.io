@@ -272,3 +272,15 @@ transform: translate(-50%,-50%);
 color: #fff;
 font-size: 25px;
 }
+
+.r{
+position: absolute;
+top: 584%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.r h1{
+color: #ff00ff;
+font-size: 60px;
+}
