@@ -129,4 +129,14 @@ color: #fff;
 font-size: 25px;
 }
 
+.e{
+position: absolute;
+top: 135%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
 
+.e h1{
+color: #00ff00;
+font-size: 60px;
+}
