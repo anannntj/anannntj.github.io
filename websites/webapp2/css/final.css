@@ -275,7 +275,7 @@ font-size: 25px;
 
 .r{
 position: absolute;
-top: 669%;
+top: 672%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -283,4 +283,16 @@ transform: translate(-50%,-50%);
 .r h1{
 color: #ff00ff;
 font-size: 60px;
+}
+
+.s{
+position: absolute;
+top: 692%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.s h1{
+color: #fff;
+font-size: 25px;
 }
