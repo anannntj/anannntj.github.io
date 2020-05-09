@@ -261,3 +261,14 @@ color: #ffff00;
 font-size: 60px;
 }
 
+.q{
+position: absolute;
+top: 610%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.q h1{
+color: #fff;
+font-size: 25px;
+}
