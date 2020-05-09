@@ -49,18 +49,6 @@ max-width: 1200px;
 margin: auto;
 }
 
-.title{
-position: absolute;
-top: 45%;
-left: 50%;
-transform: translate(-50%,-50%);
-}
-
-.title h1{
-color: #fff;
-font-size: 70px;
-}
-
 .button{
 position: absolute;
 top: 54%;
@@ -81,7 +69,17 @@ background-color: #fff;
 color: #000;
 }
 
+.title{
+position: absolute;
+top: 30%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
 
+.title h1{
+color: #fff;
+font-size: 70px;
+}
 
 
 
