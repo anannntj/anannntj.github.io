@@ -105,6 +105,17 @@ color: #fff;
 font-size: 25px;
 }
 
+.c{
+position: absolute;
+top: 116%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.c h1{
+color: #rrggbb;
+font-size: 25px;
+}
 
 
 
