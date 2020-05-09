@@ -164,3 +164,17 @@ transform: translate(-50%,-50%);
 color: #fff;
 font-size: 60px;
 }
+
+.h{
+position: absolute;
+top: 321%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.h h1{
+color: #fff;
+font-size: 25px;
+}
+
+
