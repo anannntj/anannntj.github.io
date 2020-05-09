@@ -117,5 +117,16 @@ color: #rrggbb;
 font-size: 60px;
 }
 
+.d{
+position: absolute;
+top: 168%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.d h1{
+color: #fff;
+font-size: 25px;
+}
 
 
