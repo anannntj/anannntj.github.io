@@ -237,3 +237,15 @@ color: #00ffff;
 font-size: 60px;
 }
 
+.o{
+position: absolute;
+top: 545%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.o h1{
+color: #fff;
+font-size: 25px;
+}
+
