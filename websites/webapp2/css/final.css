@@ -213,14 +213,14 @@ color: #ff6347;
 font-size: 60px;
 }
 
-.l{
+.m{
 position: absolute;
 top: 479;
 left: 50%;
 transform: translate(-50%,-50%);
 }
 
-.l h1{
+.m h1{
 color: #fff;
 font-size: 25px;
 }
