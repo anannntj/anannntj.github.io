@@ -188,3 +188,16 @@ transform: translate(-50%,-50%);
 color: #ffd700;
 font-size: 60px;
 }
+
+.j{
+position: absolute;
+top: 387%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.j h1{
+color: #fff;
+font-size: 25px;
+}
+
