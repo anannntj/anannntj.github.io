@@ -131,7 +131,7 @@ font-size: 25px;
 
 .e{
 position: absolute;
-top: 215%;
+top: 210%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -140,3 +140,16 @@ transform: translate(-50%,-50%);
 color: #00ff00;
 font-size: 60px;
 }
+
+.f{
+position: absolute;
+top: 249%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.f h1{
+color: #fff;
+font-size: 25px;
+}
+
