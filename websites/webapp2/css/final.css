@@ -296,3 +296,13 @@ transform: translate(-50%,-50%);
 color: #fff;
 font-size: 25px;
 }
+
+.ph img{
+float: left;
+width: 150px;
+height: 150px;
+position: absolute;
+top: 34%;
+left: 10%;
+transform: translate(-50%,-50%);
+}
