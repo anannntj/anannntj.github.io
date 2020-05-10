@@ -309,10 +309,20 @@ transform: translate(-50%,-50%);
 
 .ph2 img{
 float: left;
-width: 200px;
-height: 200px;
+width: 210px;
+height: 210px;
 position: absolute;
 top: 249%;
-left: 90%;
+left: 88%;
+transform: translate(-50%,-50%);
+}
+
+.ph3 img{
+float: left;
+width: 210px;
+height: 210px;
+position: absolute;
+top: 283%;
+left: 12%;
 transform: translate(-50%,-50%);
 }
