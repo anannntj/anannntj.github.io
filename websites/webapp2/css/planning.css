@@ -105,4 +105,14 @@ color: #ffd700;
 font-size: 35px;
 }
 
+.c{
+position: absolute;
+top: 500%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
 
+.c h1{
+color: #fff;
+font-size: 25px;
+}
