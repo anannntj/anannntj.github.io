@@ -81,9 +81,17 @@ background-color: #fff;
 color: #000;
 }
 
+.a{
+position: absolute;
+top: 125%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
 
-
-
+.a h1{
+color: #fff;
+font-size: 25px;
+}
 
 
 
