@@ -95,7 +95,7 @@ font-size: 35px;
 
 .b{
 position: absolute;
-top:  440%;
+top:  480%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -107,7 +107,7 @@ font-size: 35px;
 
 .c{
 position: absolute;
-top: 500%;
+top: 560%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
