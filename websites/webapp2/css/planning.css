@@ -6,7 +6,7 @@ font-family: Century Gothic;
 
 header{
 background-image: url(../images/3.jpg);
-height: 1000vh;
+height: 1400vh;
 background-size: cover;
 background-position: center;
 }
@@ -107,7 +107,7 @@ font-size: 35px;
 
 .c{
 position: absolute;
-top: 700%;
+top: 810%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
