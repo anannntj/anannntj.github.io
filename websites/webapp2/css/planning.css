@@ -6,7 +6,7 @@ font-family: Century Gothic;
 
 header{
 background-image: url(../images/3.jpg);
-height: 140vh;
+height: 300vh;
 background-size: cover;
 background-position: center;
 }
@@ -51,7 +51,7 @@ margin: auto;
 
 .title{
 position: absolute;
-top: 70%;
+top: 130%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
