@@ -116,3 +116,13 @@ transform: translate(-50%,-50%);
 color: #fff;
 font-size: 25px;
 }
+
+.ph1 img{
+float: left;
+width: 150px;
+height: 175px;
+position: absolute;
+top: 34%;
+left: 10%;
+transform: translate(-50%,-50%);
+}
