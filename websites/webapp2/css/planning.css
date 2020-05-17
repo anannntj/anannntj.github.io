@@ -132,7 +132,17 @@ float: left;
 width: 200px;
 height: 175px;
 position: absolute;
-top: 90%;
+top: 105%;
 left: 90%;
+transform: translate(-50%,-50%);
+}
+
+.ph3 img{
+float: left;
+width: 200px;
+height: 175px;
+position: absolute;
+top: 145%;
+left: 10%;
 transform: translate(-50%,-50%);
 }
