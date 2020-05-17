@@ -126,3 +126,13 @@ top: 34%;
 left: 10%;
 transform: translate(-50%,-50%);
 }
+
+.ph2 img{
+float: left;
+width: 150px;
+height: 175px;
+position: absolute;
+top: 80%;
+left: 90%;
+transform: translate(-50%,-50%);
+}
