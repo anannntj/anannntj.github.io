@@ -119,7 +119,7 @@ font-size: 25px;
 
 .ph1 img{
 float: left;
-width: 150px;
+width: 200px;
 height: 175px;
 position: absolute;
 top: 34%;
@@ -129,7 +129,7 @@ transform: translate(-50%,-50%);
 
 .ph2 img{
 float: left;
-width: 150px;
+width: 200px;
 height: 175px;
 position: absolute;
 top: 80%;
