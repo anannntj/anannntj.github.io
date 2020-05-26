@@ -83,7 +83,7 @@ color: #000;
 
 .title{
 position: absolute;
-top: 15%;
+top: 22%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -98,7 +98,7 @@ float: left;
 width: 600px;
 height: 300px;
 position: absolute;
-top: 100%;
+top: 60%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
