@@ -81,6 +81,18 @@ background-color: #fff;
 color: #000;
 }
 
+.title{
+position: absolute;
+top: 15%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.title h1{
+color: #fff;
+font-size: 70px;
+}
+
 .ph1 img{
 float: left;
 width: 200px;
