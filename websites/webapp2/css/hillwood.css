@@ -81,7 +81,15 @@ background-color: #fff;
 color: #000;
 }
 
-
+.ph1 img{
+float: left;
+width: 200px;
+height: 175px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
 
 
 
