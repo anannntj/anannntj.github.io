@@ -182,8 +182,8 @@ float: left;
 width: 200px;
 height: 175px;
 position: absolute;
-top: 420%;
-left: 10%;
+top: 470%;
+left: 90%;
 transform: translate(-50%,-50%);
 }
 
@@ -192,7 +192,7 @@ float: left;
 width: 200px;
 height: 175px;
 position: absolute;
-top: 483%;
+top: 533%;
 left: 90%;
 transform: translate(-50%,-50%);
 }
@@ -202,7 +202,7 @@ float: left;
 width: 200px;
 height: 175px;
 position: absolute;
-top: 560%;
+top: 610%;
 left: 10%;
 transform: translate(-50%,-50%);
 }
@@ -212,7 +212,7 @@ float: left;
 width: 200px;
 height: 175px;
 position: absolute;
-top: 623%;
+top: 673%;
 left: 90%;
 transform: translate(-50%,-50%);
 }
@@ -222,7 +222,7 @@ float: left;
 width: 200px;
 height: 175px;
 position: absolute;
-top: 686%;
+top: 736%;
 left: 10%;
 transform: translate(-50%,-50%);
 }
@@ -232,7 +232,7 @@ float: left;
 width: 200px;
 height: 175px;
 position: absolute;
-top: 749%;
+top: 799%;
 left: 90%;
 transform: translate(-50%,-50%);
 }
