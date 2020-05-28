@@ -142,7 +142,97 @@ float: left;
 width: 200px;
 height: 175px;
 position: absolute;
-top: 175%;
+top: 168%;
 left: 10%;
+transform: translate(-50%,-50%);
+}
+
+.ph4 img{
+float: left;
+width: 200px;
+height: 175px;
+position: absolute;
+top: 231%;
+left: 10%;
+transform: translate(-50%,-50%);
+}
+
+.ph5 img{
+float: left;
+width: 200px;
+height: 175px;
+position: absolute;
+top: 294%;
+left: 90%;
+transform: translate(-50%,-50%);
+}
+
+.ph6 img{
+float: left;
+width: 200px;
+height: 175px;
+position: absolute;
+top: 357%;
+left: 10%;
+transform: translate(-50%,-50%);
+}
+
+.ph7 img{
+float: left;
+width: 200px;
+height: 175px;
+position: absolute;
+top: 420%;
+left: 10%;
+transform: translate(-50%,-50%);
+}
+
+.ph8 img{
+float: left;
+width: 200px;
+height: 175px;
+position: absolute;
+top: 483%;
+left: 90%;
+transform: translate(-50%,-50%);
+}
+
+.ph9 img{
+float: left;
+width: 200px;
+height: 175px;
+position: absolute;
+top: 560%;
+left: 10%;
+transform: translate(-50%,-50%);
+}
+
+.ph10 img{
+float: left;
+width: 200px;
+height: 175px;
+position: absolute;
+top: 623%;
+left: 90%;
+transform: translate(-50%,-50%);
+}
+
+.ph11 img{
+float: left;
+width: 200px;
+height: 175px;
+position: absolute;
+top: 686%;
+left: 10%;
+transform: translate(-50%,-50%);
+}
+
+.ph12 img{
+float: left;
+width: 200px;
+height: 175px;
+position: absolute;
+top: 749%;
+left: 90%;
 transform: translate(-50%,-50%);
 }
