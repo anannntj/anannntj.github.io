@@ -197,3 +197,15 @@ top: 332%;
 left: 35%;
 transform: translate(-50%,-50%);
 }
+
+.d{
+position: absolute;
+top: 287%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.d h1{
+color: #fff;
+font-size: 70px;
+}
