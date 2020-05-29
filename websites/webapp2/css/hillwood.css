@@ -123,6 +123,19 @@ left: 68%;
 transform: translate(-50%,-50%);
 }
 
+.a{
+position: absolute;
+top: 55%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.a h1{
+color: #fff;
+font-size: 70px;
+}
+
+
 
 
 
