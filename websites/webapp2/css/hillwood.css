@@ -176,3 +176,14 @@ left: 35%;
 transform: translate(-50%,-50%);
 }
 
+.c{
+position: absolute;
+top: 218%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.c h1{
+color: #fff;
+font-size: 70px;
+}
