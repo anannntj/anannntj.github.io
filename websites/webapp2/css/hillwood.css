@@ -103,6 +103,17 @@ left: 50%;
 transform: translate(-50%,-50%);
 }
 
+.ph2 img{
+float: left;
+width: 600px;
+height: 300px;
+position: absolute;
+top: 70%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+
 
 
 
