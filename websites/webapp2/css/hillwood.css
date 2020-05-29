@@ -113,6 +113,16 @@ left: 50%;
 transform: translate(-50%,-50%);
 }
 
+.ph3 img{
+float: left;
+width: 600px;
+height: 300px;
+position: absolute;
+top: 110%;
+left: 65%;
+transform: translate(-50%,-50%);
+}
+
 
 
 
