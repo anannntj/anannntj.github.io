@@ -209,3 +209,25 @@ transform: translate(-50%,-50%);
 color: #fff;
 font-size: 70px;
 }
+
+.ph9 img{
+float: left;
+width: 500px;
+height: 300px;
+position: absolute;
+top: 382%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.e{
+position: absolute;
+top: 287%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.e h1{
+color: #fff;
+font-size: 70px;
+}
