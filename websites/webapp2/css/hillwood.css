@@ -244,7 +244,7 @@ color: #fff;
 font-size: 70px;
 }
 
-.pha img{
+.z img{
 float: left;
 width: 500px;
 height: 300px;
@@ -254,7 +254,7 @@ left: 68%;
 transform: translate(-50%,-50%);
 }
 
-.phb img{
+.x img{
 float: left;
 width: 500px;
 height: 300px;
@@ -264,7 +264,7 @@ left: 68%;
 transform: translate(-50%,-50%);
 }
 
-.phc img{
+.y img{
 float: left;
 width: 500px;
 height: 300px;
