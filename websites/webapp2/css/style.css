@@ -64,14 +64,14 @@ font-size: 70px;
 .button{
 position: absolute;
 top: 54%;
-left: 40%;
+left: 42%;
 transform: translate(-50%,-50%);
 }
 
 .button2{
 position: absolute;
 top: 54%;
-left: 60%;
+left: 58%;
 transform: translate(-50%,-50%);
 }
 
