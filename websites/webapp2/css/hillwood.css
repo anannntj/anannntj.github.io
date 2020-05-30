@@ -244,4 +244,12 @@ color: #fff;
 font-size: 70px;
 }
 
-
+.g img{
+float: left;
+width: 500px;
+height: 300px;
+position: absolute;
+top: 322%;
+left: 68%;
+transform: translate(-50%,-50%);
+}
