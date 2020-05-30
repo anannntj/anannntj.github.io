@@ -6,7 +6,7 @@ font-family: Century Gothic;
 
 header{
 background-image: url(../images/3.jpg);
-height: 100vh;
+height: 300vh;
 background-size: cover;
 background-position: center;
 }
@@ -51,7 +51,7 @@ margin: auto;
 
 .title{
 position: absolute;
-top: 45%;
+top: 120%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -64,14 +64,7 @@ font-size: 70px;
 .button{
 position: absolute;
 top: 54%;
-left: 45%;
-transform: translate(-50%,-50%);
-}
-
-.button2{
-position: absolute;
-top: 54%;
-left: 55%;
+left: 50%;
 transform: translate(-50%,-50%);
 }
 
@@ -88,22 +81,7 @@ background-color: #fff;
 color: #000;
 }
 
-.yes{
-position: absolute;
-top: 85%;
-left: 50%;
-transform: translate(-50%,-50%);
-}
-
-.yes h1{
+.title h2{
 color: #fff;
-font-size: 15px;
+font-size: 20px;
 }
-
-
-
-
-
-
-
-
