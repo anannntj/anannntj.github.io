@@ -72,7 +72,7 @@ color: #000;
 
 .title{
 position: absolute;
-top: 18%;
+top: 98%;
 left: 49%;
 transform: translate(-50%,-50%);
 }
@@ -87,7 +87,7 @@ float: left;
 width: 600px;
 height: 300px;
 position: absolute;
-top: 46%;
+top: 126%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -97,7 +97,7 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 114%;
+top: 194%;
 left: 35%;
 transform: translate(-50%,-50%);
 }
@@ -107,14 +107,14 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 114%;
+top: 194%;
 left: 68%;
 transform: translate(-50%,-50%);
 }
 
 .a{
 position: absolute;
-top: 80%;
+top: 160%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -129,7 +129,7 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 181%;
+top: 261%;
 left: 68%;
 transform: translate(-50%,-50%);
 }
@@ -139,14 +139,14 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 181%;
+top: 261%;
 left: 35%;
 transform: translate(-50%,-50%);
 }
 
 .b{
 position: absolute;
-top: 149%;
+top: 229%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -161,7 +161,7 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 252%;
+top: 332%;
 left: 68%;
 transform: translate(-50%,-50%);
 }
@@ -171,14 +171,14 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 252%;
+top: 332%;
 left: 35%;
 transform: translate(-50%,-50%);
 }
 
 .c{
 position: absolute;
-top: 218%;
+top: 298%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -193,14 +193,14 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 322%;
+top: 402%;
 left: 35%;
 transform: translate(-50%,-50%);
 }
 
 .d{
 position: absolute;
-top: 287%;
+top: 367%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -215,14 +215,14 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 387%;
+top: 467%;
 left: 35%;
 transform: translate(-50%,-50%);
 }
 
 .e{
 position: absolute;
-top: 356%;
+top: 436%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -234,7 +234,7 @@ font-size: 70px;
 
 .f{
 position: absolute;
-top: 415%;
+top: 495%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -249,7 +249,7 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 322%;
+top: 402%;
 left: 68%;
 transform: translate(-50%,-50%);
 }
@@ -259,7 +259,7 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 452%;
+top: 532%;
 left: 68%;
 transform: translate(-50%,-50%);
 }
@@ -269,7 +269,7 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 452%;
+top: 532%;
 left: 35%;
 transform: translate(-50%,-50%);
 }
@@ -279,7 +279,7 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 387%;
+top: 467%;
 left: 68%;
 transform: translate(-50%,-50%);
 }
@@ -289,7 +289,7 @@ float: left;
 width: 700px;
 height: 500px;
 position: absolute;
-top: 520%;
+top: 53%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
