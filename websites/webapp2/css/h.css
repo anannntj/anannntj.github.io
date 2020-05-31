@@ -109,3 +109,27 @@ transform: translate(-50%,-50%);
 color: #fff;
 font-size: 25px;
 }
+
+.c{
+position: absolute;
+top: 750%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.c h1{
+color: #fff;
+font-size: 60px;
+}
+
+.d{
+position: absolute;
+top: 850%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.d h1{
+color: #fff;
+font-size: 25px;
+}
