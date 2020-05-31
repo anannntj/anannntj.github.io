@@ -266,3 +266,15 @@ transform: translate(-50%,-50%);
 color: #fff;
 font-size: 15px;
 }
+
+.p{
+position: absolute;
+top: 5414%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.p h1{
+color: #fff;
+font-size: 60px;
+}
