@@ -112,7 +112,7 @@ font-size: 25px;
 
 .c{
 position: absolute;
-top: 900%;
+top: 950%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -124,7 +124,7 @@ font-size: 60px;
 
 .d{
 position: absolute;
-top: 1300%;
+top: 1420%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
