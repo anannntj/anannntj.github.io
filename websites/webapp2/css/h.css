@@ -269,7 +269,7 @@ font-size: 15px;
 
 .p{
 position: absolute;
-top: 5300%;
+top: 5250%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
