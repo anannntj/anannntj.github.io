@@ -229,3 +229,28 @@ transform: translate(-50%,-50%);
 color: #fff;
 font-size: 25px;
 }
+
+.m{
+position: absolute;
+top: 4904%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.m h1{
+color: #fff;
+font-size: 60px;
+}
+
+.n{
+position: absolute;
+top: 5100%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.l
+n h1{
+color: #fff;
+font-size: 25px;
+}
