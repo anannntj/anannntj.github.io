@@ -283,3 +283,13 @@ top: 387%;
 left: 68%;
 transform: translate(-50%,-50%);
 }
+
+video{
+float: left;
+width: 700px;
+height: 500px;
+position: absolute;
+top: 520%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
