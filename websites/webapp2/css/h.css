@@ -269,7 +269,7 @@ font-size: 15px;
 
 .p{
 position: absolute;
-top: 5250%;
+top: 5220%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -277,4 +277,17 @@ transform: translate(-50%,-50%);
 .p h1{
 color: #fff;
 font-size: 60px;
+}
+
+.q{
+position: absolute;
+top: 5475%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+
+.q h1{
+color: #fff;
+font-size: 25px;
 }
