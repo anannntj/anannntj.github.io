@@ -181,3 +181,27 @@ transform: translate(-50%,-50%);
 color: #fff;
 font-size: 25px;
 }
+
+.i{
+position: absolute;
+top: 4032%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.i h1{
+color: #fff;
+font-size: 60px;
+}
+
+.j{
+position: absolute;
+top: 4560%;
+left: 50%;
+transform: translate(-50%,-50%);
+}
+
+.j h1{
+color: #fff;
+font-size: 25px;
+}
