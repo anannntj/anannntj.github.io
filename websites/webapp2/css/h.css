@@ -244,13 +244,13 @@ font-size: 60px;
 
 .n{
 position: absolute;
-top: 5100%;
+top: 5145%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
 
-.l
-n h1{
+
+.n h1{
 color: #fff;
 font-size: 25px;
 }
