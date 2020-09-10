@@ -6,7 +6,7 @@ font-family: Century Gothic;
 
 header{
 background-image: url(../images/3.jpg);
-height: 1360vh;
+height: 1700vh;
 background-size: cover;
 background-position: center;
 }
@@ -49,14 +49,14 @@ max-width: 1200px;
 margin: auto;
 }
 
-.title{
+.x{
 position: absolute;
-top: 240%;
+top: 470%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
 
-.title h1{
+.x h1{
 color: #fff;
 font-size: 25px;
 }
@@ -95,7 +95,7 @@ font-size: 35px;
 
 .b{
 position: absolute;
-top:  463%;
+top:  924%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -107,7 +107,7 @@ font-size: 35px;
 
 .c{
 position: absolute;
-top: 845%;
+top: 1495%;
 left: 50%;
 transform: translate(-50%,-50%);
 }

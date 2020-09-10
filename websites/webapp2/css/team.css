@@ -6,7 +6,7 @@ font-family: Century Gothic;
 
 header{
 background-image: url(../images/3.jpg);
-height: 205vh;
+height: 505vh;
 background-size: cover;
 background-position: center;
 }
@@ -51,7 +51,7 @@ margin: auto;
 
 .title{
 position: absolute;
-top: 15%;
+top: 25%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -86,7 +86,7 @@ float: left;
 width: 150px;
 height: 175px;
 position: absolute;
-top: 34%;
+top: 54%;
 left: 10%;
 transform: translate(-50%,-50%);
 }
@@ -96,7 +96,7 @@ float: left;
 width: 150px;
 height: 175px;
 position: absolute;
-top: 60%;
+top: 90%;
 right: 6%;
 transform: translate(-50%,-50%);
 }
@@ -106,7 +106,7 @@ float: left;
 width: 150px;
 height: 150px;
 position: absolute;
-top: 86%;
+top: 125%;
 left: 10%;
 transform: translate(-50%,-50%);
 }
@@ -116,7 +116,7 @@ float: left;
 width: 150px;
 height: 150px;
 position: absolute;
-top: 112%;
+top: 160%;
 right: 6%;
 transform: translate(-50%,-50%);
 rotate: left;
@@ -127,7 +127,7 @@ float: left;
 width: 150px;
 height: 175px;
 position: absolute;
-top: 138%;
+top: 208%;
 left: 10%;
 transform: translate(-50%,-50%);
 rotate: left;
@@ -138,7 +138,7 @@ float: left;
 width: 150px;
 height: 150px;
 position: absolute;
-top: 164%;
+top: 254%;
 right: 6%;
 transform: translate(-50%,-50%);
 rotate: left;
@@ -149,7 +149,7 @@ float: left;
 width: 150px;
 height: 150px;
 position: absolute;
-top: 190%;
+top: 299%;
 left: 10%;
 transform: translate(-50%,-50%);
 rotate: left;
@@ -157,7 +157,7 @@ rotate: left;
 
 .ad{
 position: absolute;
-top: 34%;
+top: 54%;
 left: 48%;
 transform: translate(-50%,-50%);
 }
@@ -169,7 +169,7 @@ font-size: 23px;
 
 .n{
 position: absolute;
-top: 59%;
+top: 89%;
 left: 48%;
 transform: translate(-50%,-50%);
 }
@@ -181,7 +181,7 @@ font-size: 23px;
 
 .g{
 position: absolute;
-top: 84%;
+top: 124%;
 left: 48%;
 transform: translate(-50%,-50%);
 }
@@ -193,7 +193,7 @@ font-size: 23px;
 
 .an{
 position: absolute;
-top: 111%;
+top: 161%;
 left: 48%;
 transform: translate(-50%,-50%);
 }
@@ -205,7 +205,7 @@ font-size: 23px;
 
 .i{
 position: absolute;
-top: 139%;
+top: 209%;
 left: 48%;
 transform: translate(-50%,-50%);
 }
@@ -217,7 +217,7 @@ font-size: 23px;
 
 .r{
 position: absolute;
-top: 164%;
+top: 254%;
 left: 48%;
 transform: translate(-50%,-50%);
 }
@@ -229,7 +229,7 @@ font-size: 22px;
 
 .m{
 position: absolute;
-top: 188%;
+top: 298%;
 left: 48%;
 transform: translate(-50%,-50%);
 }

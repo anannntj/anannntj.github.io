@@ -6,7 +6,7 @@ font-family: Century Gothic;
 
 header{
 background-image: url(../images/3.jpg);
-height: 5800vh;
+height: 8000vh;
 background-size: cover;
 background-position: center;
 }
@@ -100,7 +100,7 @@ font-size: 60px;
 
 .b{
 position: absolute;
-top: 500%;
+top: 700%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -112,7 +112,7 @@ font-size: 25px;
 
 .c{
 position: absolute;
-top: 960%;
+top: 1360%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -124,7 +124,7 @@ font-size: 60px;
 
 .d{
 position: absolute;
-top: 1400%;
+top: 1980%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -136,7 +136,7 @@ font-size: 25px;
 
 .e{
 position: absolute;
-top: 1832%;
+top: 2597%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -148,7 +148,7 @@ font-size: 60px;
 
 .f{
 position: absolute;
-top: 2537%;
+top: 3637%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -160,7 +160,7 @@ font-size: 25px;
 
 .g{
 position: absolute;
-top: 3242%;
+top: 4672%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -172,7 +172,7 @@ font-size: 60px;
 
 .h{
 position: absolute;
-top: 3670%;
+top: 5276%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -184,7 +184,7 @@ font-size: 25px;
 
 .i{
 position: absolute;
-top: 4099%;
+top: 5889%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -196,7 +196,7 @@ font-size: 60px;
 
 .j{
 position: absolute;
-top: 4310%;
+top: 6200%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -208,7 +208,7 @@ font-size: 25px;
 
 .k{
 position: absolute;
-top: 4514%;
+top: 6509%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -220,7 +220,7 @@ font-size: 60px;
 
 .l{
 position: absolute;
-top: 4710%;
+top: 6795%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -232,7 +232,7 @@ font-size: 25px;
 
 .m{
 position: absolute;
-top: 4914%;
+top: 7074%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -244,7 +244,7 @@ font-size: 60px;
 
 .n{
 position: absolute;
-top: 5075%;
+top: 7289%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -269,7 +269,7 @@ font-size: 15px;
 
 .p{
 position: absolute;
-top: 5220%;
+top: 7500%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -281,7 +281,7 @@ font-size: 60px;
 
 .q{
 position: absolute;
-top: 5329%;
+top: 7679%;
 left: 50%;
 transform: translate(-50%,-50%);
 }

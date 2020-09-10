@@ -6,7 +6,7 @@ font-family: Century Gothic;
 
 header{
 background-image: url(../images/3.jpg);
-height: 600vh;
+height: 700vh;
 background-size: cover;
 background-position: center;
 }
@@ -72,7 +72,7 @@ color: #000;
 
 .title{
 position: absolute;
-top: 98%;
+top: 25%;
 left: 49%;
 transform: translate(-50%,-50%);
 }
@@ -87,7 +87,7 @@ float: left;
 width: 600px;
 height: 300px;
 position: absolute;
-top: 126%;
+top: 63%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -97,8 +97,8 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 194%;
-left: 35%;
+top: 161%;
+left: 30%;
 transform: translate(-50%,-50%);
 }
 
@@ -107,14 +107,14 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 194%;
-left: 68%;
+top: 161%;
+left: 72%;
 transform: translate(-50%,-50%);
 }
 
 .a{
 position: absolute;
-top: 160%;
+top: 110%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -129,8 +129,8 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 261%;
-left: 68%;
+top: 241%;
+left: 72%;
 transform: translate(-50%,-50%);
 }
 
@@ -139,14 +139,14 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 261%;
-left: 35%;
+top: 241%;
+left: 30%;
 transform: translate(-50%,-50%);
 }
 
 .b{
 position: absolute;
-top: 229%;
+top: 204%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -162,7 +162,7 @@ width: 500px;
 height: 300px;
 position: absolute;
 top: 332%;
-left: 68%;
+left: 72%;
 transform: translate(-50%,-50%);
 }
 
@@ -172,13 +172,13 @@ width: 500px;
 height: 300px;
 position: absolute;
 top: 332%;
-left: 35%;
+left: 30%;
 transform: translate(-50%,-50%);
 }
 
 .c{
 position: absolute;
-top: 298%;
+top: 288%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -193,14 +193,14 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 402%;
-left: 35%;
+top: 422%;
+left: 30%;
 transform: translate(-50%,-50%);
 }
 
 .d{
 position: absolute;
-top: 367%;
+top: 377%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -215,14 +215,14 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 467%;
-left: 35%;
+top: 500%;
+left: 30%;
 transform: translate(-50%,-50%);
 }
 
 .e{
 position: absolute;
-top: 436%;
+top: 466%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -234,7 +234,7 @@ font-size: 70px;
 
 .f{
 position: absolute;
-top: 495%;
+top: 545%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
@@ -249,8 +249,8 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 402%;
-left: 68%;
+top: 422%;
+left: 72%;
 transform: translate(-50%,-50%);
 }
 
@@ -259,8 +259,8 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 532%;
-left: 68%;
+top: 588%;
+left: 72%;
 transform: translate(-50%,-50%);
 }
 
@@ -269,8 +269,8 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 532%;
-left: 35%;
+top: 588%;
+left: 30%;
 transform: translate(-50%,-50%);
 }
 
@@ -279,8 +279,8 @@ float: left;
 width: 500px;
 height: 300px;
 position: absolute;
-top: 467%;
-left: 68%;
+top: 500%;
+left: 72%;
 transform: translate(-50%,-50%);
 }
 
@@ -289,7 +289,7 @@ float: left;
 width: 700px;
 height: 500px;
 position: absolute;
-top: 53%;
+top: 659%;
 left: 50%;
 transform: translate(-50%,-50%);
 }
